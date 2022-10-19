@@ -1,0 +1,4 @@
+.header__logo {
+    box-sizing: border-box;
+    object-fit: cover;
+}
