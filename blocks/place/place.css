@@ -1,0 +1,9 @@
+.place {
+    display: grid;
+    grid-template: 25% 25%  / 25%  25% ;
+    /* margin-bottom: 80px; */
+}
+
+/* .place:nth-last-child(1) {
+    margin-bottom: 92px;
+} */

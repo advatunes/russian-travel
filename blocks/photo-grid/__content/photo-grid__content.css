@@ -1,0 +1,6 @@
+.photo-grid__content {
+    box-sizing: border-box;
+    max-width: 1184px;
+    margin: 92px auto 0 auto;
+    padding: 0 48px;
+}

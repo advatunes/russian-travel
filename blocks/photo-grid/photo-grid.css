@@ -3,7 +3,4 @@
     grid-gap: 16px;
     grid-template-columns: repeat(4, 1fr);
     justify-items: stretch;
-    max-width: 1184px;
-    margin: 92px auto 0 auto;
-    padding: 0 48px;
 }

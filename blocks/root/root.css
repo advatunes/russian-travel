@@ -1,0 +1,12 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #fff;
+  background-color: #2a2c2f;
+  margin: 0 auto;
+  min-width: 320px;
+  max-width: 1280px;
+}
