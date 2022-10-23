@@ -1,6 +1,10 @@
 .place {
     display: grid;
-    grid-template: 25% 25%  / 25%  25% ;
+    grid-template-columns:  460px 1fr;
+    grid-template-rows: auto;
+    column-gap: 28px;
+    row-gap: 48px;
+
     /* margin-bottom: 80px; */
 }
 

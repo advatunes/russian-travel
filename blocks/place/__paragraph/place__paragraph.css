@@ -3,9 +3,4 @@
   font-size: 18px;
   line-height: 163%;
   margin: 0;
-  margin-bottom: 26px;
-}
-
-.place__paragraph:nth-last-child(1) {
-    margin-bottom: 0;
 }

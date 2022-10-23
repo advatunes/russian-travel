@@ -1,3 +1,5 @@
 .cover {
-    font-family: "inter", Arial, sans-serif;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 auto;
 }

@@ -1,4 +1,8 @@
 .place__website {
-    margin-top: 105px;
-    margin-bottom: 48px;
+    align-self: end;
+    transition: all 0.3s;
+}
+
+.place__website:hover {
+    opacity: 0.8;
 }

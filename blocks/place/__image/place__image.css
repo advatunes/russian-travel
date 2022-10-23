@@ -1,5 +1,7 @@
 .place__image {
     max-width: 460px;
     object-fit: cover;
-    margin: 48px auto 0 auto;
+    margin: 0 auto;
+    grid-area: 2 / 1 / 2 / 1;
+    /* margin: 48px auto 0 auto; */
 }

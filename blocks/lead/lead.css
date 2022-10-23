@@ -1,0 +1,19 @@
+.lead {
+  max-width: 984px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1124px) {
+  .lead {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .lead {
+    max-width: 928px;
+  }
+}
+
+
+
