@@ -1,4 +1,11 @@
 .header__logo {
     box-sizing: border-box;
     object-fit: cover;
+    max-width: 176px;
 }
+
+@media screen and (max-width: 568px) {
+    .header__logo {
+      max-width: 142px;
+    }
+  }

@@ -2,14 +2,22 @@
   display: flex;
   flex-direction: column;
   gap: 92px;
+  margin: 0 auto;
 }
 
-/* @media screen and (max-width: 1124px) {
+ @media screen and (max-width: 984px) {
   .content {
-    margin-top: 45px;
+    gap: 88px;
   }
 }
 
+@media screen and (max-width: 568px) {
+  .content {
+    gap: 64px;
+  }
+}
+
+/*
 @media screen and (max-width: 984px) {
   .content {
     margin-bottom: 88px;
