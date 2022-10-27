@@ -1,12 +1,12 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 0 48px 24px;
+  padding: 92px 48px 24px;
 }
 
 @media screen and (max-width: 984px) {
   .footer {
-    padding: 0 24px 24px;
+    padding: 92px 24px 24px;
   }
 }
 
@@ -14,5 +14,13 @@
   .footer {
     flex-direction: column;
     gap: 48px;
+    padding-top: 88px;
   }
 }
+
+@media screen and (max-width: 568px) {
+  .footer {
+    padding-top: 64px;
+  }
+}
+
