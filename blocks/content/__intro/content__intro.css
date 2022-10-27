@@ -1,15 +1,15 @@
-.intro__content {
+.content__intro {
   margin-left: 148px;
 }
 
 @media screen and (max-width:1124px) {
-  .intro__content {
+  .content__intro {
     margin-left: 48px;
   }
 }
 
 @media screen and (max-width:984px) {
-  .intro__content {
+  .content__intro {
     margin: 0 auto;
     padding: 0 24px;
   }

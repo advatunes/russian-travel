@@ -1,9 +1,9 @@
-.cover__content {
+.content__cover {
   padding: 0 48px;
 }
 
 @media screen and (max-width: 1124px) {
-  .cover__content {
+  .content__cover {
     padding: 0;
   }
 }
