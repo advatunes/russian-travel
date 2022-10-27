@@ -1,5 +1,11 @@
 .intro__content {
-  margin-left: 100px;
+  margin-left: 148px;
+}
+
+@media screen and (max-width:1124px) {
+  .intro__content {
+    margin-left: 48px;
+  }
 }
 
 @media screen and (max-width:984px) {
